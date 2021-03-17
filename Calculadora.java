@@ -10,11 +10,4 @@ class Calculadora{
     public static int dividir(int a, int b){
         return a/b;
     }
-    public static int multiplicar(int a, int b){
-        return a*b;
-    }
-
-    public static int potencia2(int a){
-        return a*a;
-    }
 }
